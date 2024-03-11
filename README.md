@@ -62,7 +62,7 @@
 2. All money transactions must be approved by the Treasurer.
 3. The Steering Committee shall maintain a record of all financial transactions and accounts. These records shall be made available at any time by the request of any active member of the Project and the general public.
 4. All money transactions over $100 must be approved by a majority vote at a regular meeting.
-5. All Steering Committee members shall be added to the HCB organization as contract signers.
+5. All Steering Committee members shall be added to the HCB organization.
 
 ## ARTICLE VI: MEETINGS
 
