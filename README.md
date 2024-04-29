@@ -17,6 +17,7 @@
 5. Memberships may be renewed by notifying the Project that the member wishes to renew their membership not more than two (2) weeks before the expiration of their membership, or at any time after the membership has lapsed.
 6. Any membership may be terminated permanently or reinstated by the Steering Committee at any time, unless two-thirds (2/3) of the Membership vote to reinstate or terminate the membership.
 7. The organization shall provide members with written or electronic notice of upcoming membership expirations at least fourteen (14) days prior to the expiration date.
+8. For the purposes of calculating some vote thresholds in the rest of the document, we define "Active Members" as members who have attended at least 50% of the last four meetings (or however many meetings have been had, whichever is lower).
 
 ## ARTICLE IV: STEERING COMMITTEE & DUTIES
 
@@ -30,7 +31,7 @@
    - Steering Committee vacancies shall be filled via a special election, to be announced within one week of a Steering Committee seat becoming vacant, and held no later than two weeks after the announcement.
       1. Announced at one (1) regular meeting, at least one (1) week, in advance of the election.
       2. An email be sent to all members by the Steering Committee upon scheduling the election.
-7. Steering Committee members may be subject to recall by petition with signatures of one-third (⅓) of the project's membership.
+7. Steering Committee members may be subject to recall by petition with signatures of one-third (⅓) of the project's membership or two-thirds of Active Members.
    - Submission of such a valid petition shall trigger a recall election to be held no later than 30 days from receipt of that petition by the Steering Committee.
       - The meeting for a recall vote shall be properly noticed to the membership, at a minimum doing the following:
          1. Announced at one (1) regular meeting, at least one (1) week, in advance of the election.
@@ -65,7 +66,7 @@
    a. Meeting times may be changed by a two-thirds (⅔) vote of membership.
 2. Special meetings may be called by the Steering Committee. Votes and elections may not occur at such meetings.
 3. Agendas for meetings shall be prepared by the Steering Committee and will be available at the request of members before a meeting.
-4. A quorum for any meeting shall be one-half (½) of members.
+4. Two-thirds of the number of Active Members shall constitute a quorum and is required for the transaction of business (i.e. voting) at any meeting of the Organization. a. If a quorum is ever not present, votes may be taken by means of an online platform available for 24 hours. b. Should a meeting fail to meet quorum on three consecutive meetings with formal motions, the Steering Committee shall be permitted to modify this formulation, subject to a majority vote of the members present at the next planned regular meeting.
 
 ## ARTICLE VII: POWERS
 
@@ -95,5 +96,5 @@
 
 ## ARTICLE X: DISSOLUTION CLAUSE
 
-1. Should the organization be dissolved due to lack of interest or other reasons, it is the responsibility of the current president to notify the fiscal sponsor The Hack Foundation (d.b.a. Hack Club), a 501(c)(3) nonprofit (EIN: 81-2908499) that they have disbanded, as well as any signers on HCB or other legal documentation. The treasurer is responsible for ensuring all fundraising dollars are appropriately reallocated to another nonprofit organization or returned to Hack Club. Dissolution of the organization must be approved by a two-thirds vote of the membership at a regular or special meeting.
+1. Should the organization be dissolved due to lack of interest or other reasons, it is the responsibility of the current president to notify the fiscal sponsor The Hack Foundation (d.b.a. Hack Club), a 501(c)(3) nonprofit (EIN: 81-2908499) that they have disbanded, as well as any signers on HCB or other legal documentation. The treasurer is responsible for ensuring all fundraising dollars are appropriately reallocated to another nonprofit organization or returned to Hack Club. Dissolution of the organization must be approved by a three-quarters vote of the Active Members at a regularly-scheduled meeting.
 2. Purple Bubble steering committee will maintain a list of all members and their contact information, as well as contact info for anyone that needs to be notified on dissolution. This list will be made available to anyone upon reasonable request. Requests for this info can be relayed to the steering committee via email at [team@purplebubble.org](mailto:team@purplebubble.org)
