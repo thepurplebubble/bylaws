@@ -43,7 +43,7 @@
       2. An email be sent to all members by the Steering Committee upon change of composition.
 9. The duties of the Co-Chairs shall be:
    a. To facilitate meetings.
-   b. To write updates to send via email to everyone on the organization's email list at least once per month.
+   b. To write updates to send via email to everyone on the organization's email list.
 10. The duties of the Secretary-Treasurer shall be:
    a. To take minutes at general meetings.
    b. To send meeting minutes to everyone on the organization's email list within ninety-six (96) hours of a meeting's end.
@@ -52,29 +52,33 @@
    e. To manage any funds of the organization.
    f. To maintain an active log of the project's income and expenditures.
    g. To serve as the lead organizer for all fundraisers.
+11. The duties of the General members shall be:
+    a. To attend meetings and be informed about the operations of the Organization.
+    b. To support the committee in its operations and decision-making.
 
 ## ARTICLE V: FUNDING
 
 1. The organization shall be funded through the following means: fiscal sponsorship, fundraisers, contributions from any organization or individual that supports the Project's mission, fundraisers, and any approved financial assistance granted by the Project's steering committee.
 2. All money transactions must be approved by the Treasurer.
 3. The Steering Committee shall maintain a record of all financial transactions and accounts. These records shall be made available at any time by the request of any active member of the Project and the general public.
+4. All money transactions over $100 must be approved by a majority vote at a regular meeting.
+5. All Steering Committee members shall be added to the HCB organization.
 
 ## ARTICLE VI: MEETINGS
 
-1. Regular meetings of the organization shall be held monthly. The day of the week and time will be determined via slack, and updated as needed on a regular basis.
-   a. Meeting times may be changed by a two-thirds (⅔) vote of membership.
-2. Special meetings may be called by the Steering Committee. Votes and elections may not occur at such meetings.
+1. Regular meetings of the organization shall be held on the third Sunday of each calendar month.
+2. Special meetings may be called by the Steering Committee. Elections may not occur at such meetings.
 3. Agendas for meetings shall be prepared by the Steering Committee and will be available at the request of members before a meeting.
-4. A quorum for any meeting shall be one-half (½) of members.
+4. Votes that require a threshold of members more than the number that are present at the meeting shall be taken by means of an online platform available for 24 hours.
+5. One-half of the number of members shall constitute a quorum and is required for the transaction of business (i.e. voting) at any meeting of the Organization. a. If a quorum is ever not present, votes may be taken by means of an online platform available for 24 hours. b. Should a meeting fail to meet quorum on three consecutive meetings with formal motions, the Steering Committee shall be permitted to modify this formulation, subject to a majority vote of the members present at the next planned regular meeting.
 
 ## ARTICLE VII: POWERS
 
-1. The Chapter shall have committees created if deemed necessary by membership. The formation of such committees shall be approved by a majority vote of the membership at a regular meeting.
-2. The Chapter shall operate as a non-profit association, and no profits may accrue to any individual within the organization.
+1. The Organization shall have committees created if deemed necessary by membership. The formation of such committees shall be approved by a majority vote of the membership at a regular meeting.
+2. The Organization shall operate as a non-profit association, and no profits may accrue to any individual within the organization.
 3. Unless otherwise provided in these bylaws, decisions of the
    organization shall be made by a simple majority of those present and voting, with those abstaining from the vote not figuring into the determination of the majority required.
 4. For purposes of any vote, the determination of the current eligible voting membership shall be private ballot. Votes will be counted immediately by the Steering Committee in the presence of members.
-5. The rules contained in the current edition of Robert's Rules of Order Newly Revised shall govern the Project in all cases to which they are applicable and in which they are not inconsistent with this Constitution, the Bylaws, or standing rules of the organization.
 
 ## ARTICLE VIII: AMENDMENT OF BYLAWS
 
@@ -96,4 +100,5 @@
 ## ARTICLE X: DISSOLUTION CLAUSE
 
 1. Should the organization be dissolved due to lack of interest or other reasons, it is the responsibility of the current president to notify the fiscal sponsor The Hack Foundation (d.b.a. Hack Club), a 501(c)(3) nonprofit (EIN: 81-2908499) that they have disbanded, as well as any signers on HCB or other legal documentation. The treasurer is responsible for ensuring all fundraising dollars are appropriately reallocated to another nonprofit organization or returned to Hack Club. Dissolution of the organization must be approved by a two-thirds vote of the membership at a regular or special meeting.
-2. Purple Bubble steering committee will maintain a list of all members and their contact information, as well as contact info for anyone that needs to be notified on dissolution. This list will be made available to anyone upon reasonable request. Requests for this info can be relayed to the steering committee via email at [team@purplebubble.org](mailto:team@purplebubble.org)
+  a. The treasurer will notify all members of disolution, and requesting nomitations for where the funds should be dispersed. Members will have 2 weeks to nominate non profits that fit with The Organization's original mission, and members will be notified to vote at the time of nominations submision closure. Should no candidates be nominated, the steering committee may come to a complete agreement on where to disperse funds.
+3. Purple Bubble steering committee will maintain a list of all members and their contact information, as well as contact info for anyone that needs to be notified on dissolution. This list will be made available to anyone upon reasonable request. Requests for this info can be relayed to the steering committee via email at [team@purplebubble.org](mailto:team@purplebubble.org)
